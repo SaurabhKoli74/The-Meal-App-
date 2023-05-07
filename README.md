@@ -42,7 +42,7 @@ Check out the live demo of the application at https://imsahadeb.github.io/The-Me
 
 ## Authors
 
-- [@imsahadeb](https://github.com/imsahadeb)
+- [@imsahadeb](https://github.com/SaurabhKoli74)
 
 ## License
 
