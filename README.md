@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at https://imsahadeb.github.io/The-Meal-App-Coding-Ninjas/
+Check out the live demo of the application at https://saurabhkoli74.github.io/The-Meal-App-/index.html
 
 ## Authors
 
